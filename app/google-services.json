@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69687876782",
+    "firebase_url": "https://newcooksta-4c044.firebaseio.com",
+    "project_id": "newcooksta-4c044",
+    "storage_bucket": "newcooksta-4c044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69687876782:android:7a31c862ee97a9d1",
+        "android_client_info": {
+          "package_name": "com.hadrami.oumar.cooksta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69687876782-0krugsv0jajaq2gr1qeo25uh1j50s5hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hadrami.oumar.cooksta",
+            "certificate_hash": "67F29C43324393703E584FEF41E8EBE02DB5AB5E"
+          }
+        },
+        {
+          "client_id": "69687876782-fn9tf7h45dhltbe7n1p5tvfjpaaa5tc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCaSZgMpLhOnHUoyvzIyZEYLnhTtsff2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69687876782-fn9tf7h45dhltbe7n1p5tvfjpaaa5tc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
